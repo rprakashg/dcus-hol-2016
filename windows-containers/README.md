@@ -72,7 +72,7 @@ In this step you will run the app to make sure it works.
   ```
     Noteice the **Hello World!** at the end of the output.
 
-Congratulations. The application works and is ready to be Docerized.
+Congratulations. The application works and is ready to be Dockerized.
 
 # <a name="create_Dockerfile"></a>Step 3: Create a Dockerfile
 
